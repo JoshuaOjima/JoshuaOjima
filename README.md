@@ -6,7 +6,7 @@
 - <b> Maritime Shipment Utilization Report & Dashboard (Report Expert)</b>
   - [Maritime Utilization & Medical Insights Dashboard](https://github.com/JoshuaOjima/Maritime-Utilization-Report-and-Dashboard)
 - <b> Aviation Finance Analytics Dashboard </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Revenue Analytics Dashboard](https://github.com/JoshuaOjima/Aviation-Finance-Analytics-Dashboard)
 - <b>End to End Business Intelligence workflow </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)

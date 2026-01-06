@@ -8,10 +8,7 @@
 - <b> Aviation Finance Analytics Dashboard </b>
   - [Revenue Analytics Dashboard](https://github.com/JoshuaOjima/Aviation-Finance-Analytics-Dashboard)
 - <b>End to End Business Intelligence workflow </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  
   
 - 🔭  I’m currently working on an <b> AI-Driven Sales & Customer Insights Dashboard</b>
 (Power BI + Python + ML + Business Storytelling)

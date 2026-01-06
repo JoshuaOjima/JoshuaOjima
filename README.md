@@ -4,7 +4,7 @@
 <h2>👨‍💻 Data Visualization Projects:</h2>
 
 - <b> Maritime Shipment Utilization Report & Dashboard (Report Expert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Maritime Utilization & Medical Insights Dashboard](https://github.com/JoshuaOjima/Maritime-Utilization-Report-and-Dashboard)
 - <b> Aviation Finance Analytics Dashboard </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>End to End Business Intelligence workflow </b>

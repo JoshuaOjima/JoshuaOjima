@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Data Visualization Projects:</h2>
 
-- <b> Maritime Shipment Utilization Report & Dashboard (Report Expert)</b>
+- <b> Shipping Utilization Report & Dashboard (Reporting Expert)</b>
   - [Maritime Utilization & Medical Insights Dashboard](https://github.com/JoshuaOjima/Maritime-Utilization-Report-and-Dashboard)
 - <b> Aviation Finance Analytics Dashboard </b>
   - [Revenue Analytics Dashboard](https://github.com/JoshuaOjima/Aviation-Finance-Analytics-Dashboard)

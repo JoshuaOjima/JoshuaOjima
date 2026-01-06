@@ -8,7 +8,7 @@
 - <b> Aviation Finance Analytics Dashboard </b>
   - [Revenue Analytics Dashboard](https://github.com/JoshuaOjima/Aviation-Finance-Analytics-Dashboard)
 - <b>End to End Business Intelligence workflow </b>
-  
+  - [Automobile and Cycling Company KPI Tracker](https://github.com/JoshuaOjima/Automobile-Industry-KPI-Tracker)  
   
 - 🔭  I’m currently working on an <b> AI-Driven Sales & Customer Insights Dashboard</b>
 (Power BI + Python + ML + Business Storytelling)

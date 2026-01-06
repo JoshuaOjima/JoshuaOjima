@@ -14,7 +14,7 @@
 (Power BI + Python + ML + Business Storytelling)
 - 📌 <b>Project Summary</b>
   - An end-to-end analytics project that uses machine learning to predict sales and customer churn, with results visualized in Power BI for business decision-making.
-- 🌱 I’m currently learning more on Machine Learning and prediction Models
+- 🌱 I’m currently learning more on Machine Learning and Prediction Models
 - 🤔 I’m looking for help with understanding how to properly predict customer churn
 - ⚡ Fun fact: I break apart dashboard designs and redesign dashbords for fun
 <!--

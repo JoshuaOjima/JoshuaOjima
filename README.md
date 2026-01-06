@@ -18,7 +18,7 @@
 - 📌 <b>Project Summary</b>
   - An end-to-end analytics project that uses machine learning to predict sales and customer churn, with results visualized in Power BI for business decision-making.
 - 🌱 I’m currently learning more on Machine Learning and prediction Models
-- 🤔 I’m looking for help with understanding how to properly predict customre churn
+- 🤔 I’m looking for help with understanding how to properly predict customer churn
 - ⚡ Fun fact: I break apart dashboard designs and redesign dashbords for fun
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

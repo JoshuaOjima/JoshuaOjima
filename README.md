@@ -3,10 +3,10 @@
 
 <h2>👨‍💻 Data Visualization Projects:</h2>
 
-- <b> Shipping Utilization Report & Dashboard (Reporting Expert)</b>
-  - [Maritime Utilization & Medical Insights Dashboard](https://github.com/JoshuaOjima/Maritime-Utilization-Report-and-Dashboard)
-- <b> Aviation Finance Analytics Dashboard </b>
-  - [Revenue Analytics Dashboard](https://github.com/JoshuaOjima/Aviation-Finance-Analytics-Dashboard)
+- <b> Data Reporting Dashboard </b>
+  - 
+- <b> Social Media Analytics </b>
+  - 
 - <b>End to End Business Intelligence workflow </b>
   - [Automobile and Cycling Company KPI Tracker](https://github.com/JoshuaOjima/Automobile-Industry-KPI-Tracker)  
   

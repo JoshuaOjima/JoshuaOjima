@@ -1,10 +1,10 @@
 <h1>Hi, I'm Josh! 
  <br/><a href="https://www.linkedin.com/in/joshua-a-a437a1369/">Business and Data Analyst</a></h1>
 
-<h2>👨‍💻 Data Visualization Projects:</h2>
+<h2>👨‍💻 Data Visualization & AI Projects Projects:</h2>
 
-- <b> Data Reporting Dashboard </b>
-  - 
+- <b> Automated Customer FeedBack </b>
+  - Customer Feedback Automation (https://docs.google.com/presentation/d/1r6DuaLtcSSVQm--cKXGW2uc9TXXtXAoCN1rUGujPMhc/edit?usp=sharing)
 - <b> Social Media Analytics </b>
   - 
 - <b>End to End Business Intelligence workflow </b>

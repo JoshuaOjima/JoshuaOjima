@@ -8,7 +8,9 @@
 - <b> Customer Support Workflow </b>
   - [AI Customer Support Workflow](https://docs.google.com/presentation/d/1qPQxVxSgqAwpQyYx7rALFHhaODpiA3zmJ4FwOJt3qDY/edit?usp=sharing)
 - <b>End to End Business Intelligence workflow </b>
-  - [Automobile and Cycling Company KPI Tracker](https://github.com/JoshuaOjima/Automobile-Industry-KPI-Tracker)  
+  - [Automobile and Cycling Company KPI Tracker](https://github.com/JoshuaOjima/Automobile-Industry-KPI-Tracker)
+- <b>Hotel Assistant Chatbot </b>
+  - [Hotel Chatbot with Zapier](https://hotel-assistant-bot-33ddef.zapier.app)  
   
 - 🔭  I’m currently working on an <b> AI-Driven Sales & Customer Insights Dashboard</b>
 (Power BI + Python + ML + Business Storytelling)

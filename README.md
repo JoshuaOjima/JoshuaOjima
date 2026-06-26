@@ -4,9 +4,9 @@
 <h2>👨‍💻 Data Visualization & AI Projects Projects:</h2>
 
 - <b> Automated Customer FeedBack </b>
-  - Customer Feedback Automation (https://docs.google.com/presentation/d/1r6DuaLtcSSVQm--cKXGW2uc9TXXtXAoCN1rUGujPMhc/edit?usp=sharing)
-- <b> Social Media Analytics </b>
-  - 
+  - [AI Customer Feedback Automation] (https://docs.google.com/presentation/d/1r6DuaLtcSSVQm--cKXGW2uc9TXXtXAoCN1rUGujPMhc/edit?usp=sharing)
+- <b> Customer Support Workflow </b>
+  - [AI Customer Support Workflow] (https://docs.google.com/presentation/d/1qPQxVxSgqAwpQyYx7rALFHhaODpiA3zmJ4FwOJt3qDY/edit?usp=sharing)
 - <b>End to End Business Intelligence workflow </b>
   - [Automobile and Cycling Company KPI Tracker](https://github.com/JoshuaOjima/Automobile-Industry-KPI-Tracker)  
   

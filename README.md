@@ -1,7 +1,7 @@
 <h1>Hi, I'm Josh! 
  <br/><a href="https://www.linkedin.com/in/joshua-a-a437a1369/">Business and Data Analyst</a></h1>
 
-<h2>👨‍💻 Data Visualization & AI Projects Projects:</h2>
+<h2>👨‍💻 Data Visualization & AI Projects:</h2>
 
 - <b> Automated Customer FeedBack </b>
   - [AI Customer Feedback Automation](https://docs.google.com/presentation/d/1r6DuaLtcSSVQm--cKXGW2uc9TXXtXAoCN1rUGujPMhc/edit?usp=sharing)

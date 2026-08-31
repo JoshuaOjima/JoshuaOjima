@@ -1,5 +1,5 @@
 <h1>Hi, I'm Josh! 
- <br/><a href="https://www.linkedin.com/in/joshua-a-a437a1369/">Business and Data Analyst</a></h1>
+ <br/><a href="https://www.linkedin.com/in/joshua-a-a437a1369/">Business and Project Analyst</a></h1>
 
 <h2>👨‍💻 Data Visualization & AI Projects:</h2>
 
